@@ -1,5 +1,7 @@
 # SWD-Detect-with-SVM-and-tree
 
+A comparison study for [<ins>SWD Detection in Rats</ins>](https://github.com/kutay-ugurlu/SWD-Detection-in-Rats)
+
 This directory contains the implementations of feature extraction and SWD detection methods proposed in the cited works below:
 * [An automated, machine learning-based detection algorithm for spike-wave discharges (SWDs) in a mouse model of absence epilepsy](https://www.biorxiv.org/content/10.1101/309146v3)
 * [Discrete wavelet transform for analysis of spike-wave discharges in rats](https://ieeexplore.ieee.org/document/4650257)
